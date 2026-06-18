@@ -1,0 +1,39 @@
+projects:
+  CallbackHandlerDart:
+    path: ../CallbackHandlerDart
+    url: https://github.com/elguala9/CallbackHandlerDart.git
+  ClockDart:
+    path: ../ClockDart
+    url: https://github.com/elguala9/ClockDart
+  CryptDart:
+    path: ../CryptDart
+    url: https://github.com/elguala9/CryptDart
+  ErmesDart:
+    path: ../ErmesDart
+    url: https://github.com/elguala9/ErmesDart.git
+  NostrSignaling:
+    path: ../NostrSignaling
+    url: https://github.com/elguala9/NostrSignalingDart.git
+  ParseDart:
+    path: ../ParseDart
+    url: https://github.com/elguala9/ParseMermaidDart.git
+  SingleHandShakeProtocolDart:
+    path: ../SingleHandShakeProtocolDart
+    url: https://github.com/elguala9/SingleHandshakeProtocolDart
+  SingletonManager:
+    path: ../SingletonManager
+    url: https://github.com/elguala9/SingletonManagerDart.git
+  StunDart:
+    path: ../StunDart
+    url: https://github.com/elguala9/StunDart
+  StunShspDart:
+    path: ../StunShspDart
+    url: https://github.com/elguala9/StunShspDart.git
+  WorkDbDart:
+    path: ../WorkDbDart
+    url: https://github.com/elguala9/WorkDbDart.git
+
+tasks:
+  hello:
+    desc: Print Hello World
+    cmd: echo "Hello World"
